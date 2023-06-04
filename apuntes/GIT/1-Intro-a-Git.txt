@@ -1,7 +1,13 @@
 Commit: Guarda los cambios en el repositorio con un comentario del proyecto. Ejemplo: git commit -m "Agregando archivo de inicio"
+#comments: commit captura una instantánea, una vez confirmada se vuelve algo así como una versión "segura" de un proyecto.
 
 Fetch: Descarga los cambios más recientes del repositorio remoto. Ejemplo: git fetch origin
+#comments: fetch trae actualizaciones del server remoto y las guarda en el repositorio local.
 
 Pull: Combina los cambios del repositorio remoto en tu rama local, actualizando el contenido del repositorio local con los cambios más recientes. Ejemplo: git pull origin main
+#comments: pull sincroniza el contenido remoto => combina los ultimos cambios del server remoto y el directorio de trabajo.
 
 Push: Envía tus cambios locales al repositorio remoto, actualizando el contenido del repositorio remoto con tus modificaciones. Ejemplo: git push origin main
+#comments: push envía los cambios en un proyecto al server remoto en donde se aloja.
+
+:)
