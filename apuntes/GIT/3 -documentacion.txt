@@ -1,0 +1,11 @@
+1 - Primero clone el repositorio de mi compañera en la carpeta que quería con git clone (URL del repositorio de ella)
+
+2 - Comente el proyecto en el archivo .txt
+
+3 - Use git add .
+
+4 - Hice un comió -m "----"
+
+5 - Use el git push origin main
+
+6 - Vi en el repositorio los cambios
